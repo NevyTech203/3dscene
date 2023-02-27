@@ -8,3 +8,31 @@ Your current project with Triangle & Cube Studios is to recreate a 3D version of
 
 
 ![image](https://user-images.githubusercontent.com/100051910/220741528-2c31be99-542d-466e-a4a7-a42049c32c7f.png)
+
+
+What new design skills has your work on the project helped you to craft?
+1) Due to this project I was able to obtain the skill of making a 2d object into a 3d object.
+
+What design process did you follow for your project work?
+2) I followed a simple color design process.
+
+How could tactics from your design approach be applied in future work?
+3) The tactics I used will help me approach my future graphic classes with a little experience. 
+
+What new development strategies did you use while working on your 3D scene?
+4) the whole project was new for me. The part that I haven't done before was code an object, like a triangle.
+
+How did iteration factor into your development?
+5) Iteration was important to my development due to the location process. It is not easy placing objects in different spots within the scene.
+
+How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+6) The only way to tackle a code this large is in moderation. I approached this code with a little every day.
+
+How can computer science help me in reaching my goals?
+7) Computer science will be the very foundation in me reaching my goal of working for a space company or the government. 
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+8) It gave me an insight into how graphics are made. Now when I watch an animated show, I cannot help but think what goes into creating it. 
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+9) It gives me the need to learn more and go further than I thought possible. It gives me a sense of wonder about being a person who creates animation for TV or movies.
